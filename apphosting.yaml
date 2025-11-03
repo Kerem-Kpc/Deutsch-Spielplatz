@@ -1,0 +1,33 @@
+# Settings to manage and configure a Firebase App Hosting backend.
+# https://firebase.google.com/docs/app-hosting/configure
+
+# Specifies the version of the App Hosting schema.
+schemaVersion: v1alpha1
+
+# Specifies the runtime to use. Next.js is the default runtime.
+runtime: nextjs
+
+# Specifies the settings for the Next.js runtime.
+nextjs:
+  # Specifies the Next.js version to use.
+  version: 15.3.3
+
+# Specifies the caching behavior for the backend.
+cache:
+  # Specifies the caching policy for static content.
+  static:
+    # Specifies the time-to-live for static content.
+    ttl: 604800s # 7 days
+
+runConfig:
+  # Increase this value if you'd like to automatically spin up
+  # more instances in response to increased traffic.
+  maxInstances: 2
+  minInstances: 1
+
+# Specifies the headers to add to the response.
+headers:
+  - path: /
+    headers:
+      - key: Cache-Control
+        value: public, max-age=60, s-maxage=3600

@@ -1,0 +1,100 @@
+{
+  "placeholderImages": [
+    {
+      "id": "kleidung-hose",
+      "description": "Eine Hose",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRVAW4R7IGIxVLsfM63usRGZVnRfJJTIyOPI4AqOXDfQBecVgCSjzTPMh9pXPgplw0QCI6Um3dSOBkn6DGato4ICawXRFUKUGF66F9-RxXlu91_gQTbaz25wU",
+      "imageHint": "trousers"
+    },
+    {
+      "id": "kleidung-bluse",
+      "description": "Eine Bluse",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3Zr65KlL89YGQa5hKPAiZV_VlWbvzCpLV-vx_Z88DcbRrR8pJSY1KsoAVbTMLP1uw_G3ExGJk_Q3DfCWVdUMSPjGH-j8r44_Ehv6q7GpMuyvO8pOT10I8RGg",
+      "imageHint": "blouse"
+    },
+    {
+      "id": "kleidung-t-shirt",
+      "description": "Ein T-Shirt",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjWttf68uHZujhaOv2RtWOBVZzqNz8gwWzWxeTqsitL85ryIaM0XQJaMvpuPLQdTmVmIYk27VD3yiE82X5uIWqTE5BjC8jv9nbtN4qEvny85cJXTgHJEuvk_6B",
+      "imageHint": "t-shirt"
+    },
+    {
+      "id": "kleidung-pullover",
+      "description": "Ein Pullover",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDCK552tem5BQA_BfIxRN8Q2bswFcSmDYd1JRCZl2bP42xW2B69QuGYruxrOjezfC5Cs43n2gtfQCNc6JY5qWmczpcmyNbenaAMUyQhGo1sPbOSrr1nqi2KA",
+      "imageHint": "sweater"
+    },
+    {
+      "id": "kleidung-anorak",
+      "description": "Ein Anorak",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTougAhRsUhSV7wy7Z5BhAbEd7sdrdfcUb3q8xKIT8IDfLNpelhtGobrfBfFJmSLmnhvYn8ACFGPuAayF85kZVf7vP4jZ8H_4etcip9VPHY7Dy2wZNJ3nbJpKs",
+      "imageHint": "jacket"
+    },
+    {
+      "id": "kleidung-muetze",
+      "description": "Eine Mütze",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFIh1bsvTU5EyJ24Z9LC0VQ45GCnekIZ_gRhBM1JsFMzfJ8FFzL5_Q3omWXR0pia-coENnC_oyPazzxRcL599elnsIJKppQKxt9KEL4gHwqMoCiPZmg1--6OWO",
+      "imageHint": "beanie"
+    },
+    {
+      "id": "kleidung-schal",
+      "description": "Ein Schal",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxz-UnbE7bGXwB-uHc2CjPgphYWRaM-_pFM1tsCxtuU3CJtkg3vcmlWMqY9zlWuWFL-FUfkqduhFwO8Pf1R8ysmQ_4WKwQK6MLWEonfAigbZo5iUOU_6jfTQ",
+      "imageHint": "scarf"
+    },
+    {
+      "id": "kleidung-handschuhe",
+      "description": "Handschuhe",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSs32lQpT3V4Ic6C9zk95q3gB-sXcSQrMNVS0hsx-PYLlFgbOviTeAlAEyjQYKd0Er2r_OBQZoon7VYrdJ88Dj_VGMWKYBwCBo-9EiRS2OBJULJfn3247fZVg",
+      "imageHint": "gloves"
+    },
+    {
+      "id": "kleidung-jeans",
+      "description": "Jeans",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR94bkJ5d2COcjZfTEYZC1MteBnGxFr8Tw4l_iqU12O2pu6BDPK36d95RmdZ_lkEDJa3g7h5kR2lu7o7UQ3-cWxeaLI-hZh0LypE-Zlzv4P-cHg_lE2_ZqvkQ",
+      "imageHint": "jeans"
+    },
+    {
+      "id": "kleidung-jeansjacke",
+      "description": "Eine Jeansjacke",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSF1_EDwtuyHCvbobgdnQF42ReLEa89UIM8IyiWE-Ea8NizlJNPoQ-wIBS8MW9xTxi7GUc1G8Dx1BMbdBEj214QB_z1PYYiOqV-W9S9onwrVTWwamTWEXEAxjY",
+      "imageHint": "denim jacket"
+    },
+    {
+      "id": "kleidung-kappe",
+      "description": "Eine Kappe",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRiIiF674KSaZGwqKrG87NO3brklfadhWz1jc6e0cMkzfAJ6karSo9APKXVOS8CM0_2kKSCxsqYor5OozA3QJt2AGDGIFw9a-9SiDW91scBp5TwV8_5iji05X4",
+      "imageHint": "cap"
+    },
+    {
+      "id": "kleidung-socken",
+      "description": "Socken",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6UbX06JJstPKmliZxg-1wDlYDi31_T2t8hWQS2-SNVZ_5C98Vds96vm5fWbyUwlnxh3j6KYdIR8qXp3Z5elAuww-OloCobSHI1KHuSW0ESh280vUPs1btf0o",
+      "imageHint": "socks"
+    },
+    {
+      "id": "kleidung-schuhe",
+      "description": "Schuhe",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNfDGv_SBV5TlxsWG3yiMonbagII4wCzlL4z_bObjpCzPs-chdTa4K_i-dT-TwiXbvSIjq-jq5DoipcbcXBcFokNtHdwLO",
+      "imageHint": "shoes"
+    },
+    {
+      "id": "kleidung-hemd",
+      "description": "Ein Hemd",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAn6verSPcmUAbEBPV3CUO3j36sQWA5yBE81SLvd8h-mfrgb212w3cc9wDWKLHKrv7_gk3cgCHvukJ49PJH4ndXawaI2tH1BjWkZCJ-ioGMUsxRXi0HieNxKxh",
+      "imageHint": "shirt"
+    },
+    {
+      "id": "kleidung-guertel",
+      "description": "Ein Gürtel",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYV8d4UWJsvp4oc_zK9C07sjgHdo-QxTicimsoMolYWBtaWxySLcYaH_2PPcvqjA_t6SvOju3ciSonPI0TGksPfa66ehk1PFhOrnwWWkCZ8adRqf1lUfk1aeE",
+      "imageHint": "belt"
+    },
+    {
+      "id": "kleidung-kopftuch",
+      "description": "Ein Kopftuch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVBongztNucUqrXQBU77sWSBMuGsvx73_dluKjGXnVseznl-hOrZoWLFrfmkP71DkDio9jPtVbLmy7lXWI6eLyh1AnDKhstB5cNgA5F3NDKf0Mj_JUaBAuUs8",
+      "imageHint": "headscarf"
+    }
+  ]
+}
